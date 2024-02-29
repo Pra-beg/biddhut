@@ -1,71 +1,78 @@
-HSCode,Description,Unit,Quantity,Imports_Value,Imports_Revenue,Month
-85459000.0,"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,10683.6254999861,932.866881347656,173.856,shrawan
-87024030.0,Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,6.0,15484.8905,4155.477,shrawan
-87024049.0,"Jeep, car & van only electric motor for propulsion",PCS,5.0,12821.2085,3440.855,shrawan
-87038029.0,"Electric car, jeep & van upto 50KW",PCS,21.0,45482.343,13610.814,shrawan
-87038059.0,"Electric car, jeep & van 51KW to <=100KW",PCS,81.0,258336.3745,126883.421,shrawan
-87038069.0,"Electric car, jeep & van > 101KW to <=200KW",PCS,5.0,13980.5605,9761.594,shrawan
-87038079.0,"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,3.0,22811.757,32134.23,shrawan
-87116010.0,Cycle with electric motor for propulsion,PCS,350.0,11312.958347168,2750.751,shrawan
-87116090.0,Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,376.0,55362.7056845703,17207.686,shrawan
-85459000.0,"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,10831.2433000021,994.833272949219,185.419,bhadra
-87024030.0,Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,36.0,108513.6265,29114.143,bhadra
-87024049.0,"Jeep, car & van only electric motor for propulsion",PCS,112.0,252655.008,74887.089,bhadra
-87038029.0,"Electric car, jeep & van upto 50KW",PCS,255.0,496589.0569375,148680.545,bhadra
-87038059.0,"Electric car, jeep & van 51KW to <=100KW",PCS,631.0,1876426.4695,920212.934,bhadra
-87038069.0,"Electric car, jeep & van > 101KW to <=200KW",PCS,9.0,35767.737,25050.254,bhadra
-87038079.0,"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,3.0,22811.757,32134.23,bhadra
-87116010.0,Cycle with electric motor for propulsion,PCS,517.0,14070.2228071289,3421.336,bhadra
-87116090.0,Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,855.0,99563.6736396485,32869.771,bhadra
-85459000.0,"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,11158.6433007829,1622.06366790771,302.152,ashwin
-87024020.0,Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,20.0,65066.523,11053.243,ashwin
-87024030.0,Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,105.0,324307.0905,87010.291,ashwin
-87024049.0,"Jeep, car & van only electric motor for propulsion",PCS,139.0,314992.173,92459.533,ashwin
-87038029.0,"Electric car, jeep & van upto 50KW",PCS,954.0,1722871.3273125,515705.717999999,ashwin
-87038059.0,"Electric car, jeep & van 51KW to <=100KW",PCS,1166.0,3382428.614,1659897.918,ashwin
-87038069.0,"Electric car, jeep & van > 101KW to <=200KW",PCS,12.0,49013.419,34436.754,ashwin
-87038079.0,"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,3.0,22811.757,32134.23,ashwin
-87116010.0,Cycle with electric motor for propulsion,PCS,741.0,22254.8467785645,5410.547,ashwin
-87116090.0,Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,1371.0,170197.644311523,55032.765,ashwin
-85459000.0,"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,11171.6433007829,1626.55089788818,302.991,kartik
-87024020.0,Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,25.0,81393.354,13826.637,kartik
-87024030.0,Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,134.0,414452.0025,111196.407,kartik
-87024049.0,"Jeep, car & van only electric motor for propulsion",PCS,146.0,331353.4,96850.117,kartik
-87038029.0,"Electric car, jeep & van upto 50KW",PCS,1279.0,2394195.6258125,716644.09,kartik
-87038059.0,"Electric car, jeep & van 51KW to <=100KW",PCS,1481.0,4303241.7685,2109778.999,kartik
-87038069.0,"Electric car, jeep & van > 101KW to <=200KW",PCS,17.0,66540.077,46607.035,kartik
-87038079.0,"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,10.0,68772.76,96878.076,kartik
-87116010.0,Cycle with electric motor for propulsion,PCS,840.0,25820.2039812012,6279.196,kartik
-87116090.0,Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,2100.0,294760.883319336,92133.2,kartik
-85459000.0,"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,13290.2433004044,2874.5763256836,533.622,mangsir
-87024020.0,Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,56.0,187620.798,31870.344,mangsir
-87024030.0,Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,134.0,414452.0025,111196.407,mangsir
-87024049.0,"Jeep, car & van only electric motor for propulsion",PCS,166.0,378120.0,109399.104,mangsir
-87038029.0,"Electric car, jeep & van upto 50KW",PCS,1595.0,2954399.2906875,884364.362999999,mangsir
-87038059.0,"Electric car, jeep & van 51KW to <=100KW",PCS,2028.0,5812391.9105,2851099.892,mangsir
-87038069.0,"Electric car, jeep & van > 101KW to <=200KW",PCS,52.0,262641.78925,184940.041,mangsir
-87038079.0,"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,11.0,77003.1395,108471.915,mangsir
-87116010.0,Cycle with electric motor for propulsion,PCS,891.0,26967.3757966309,6569.962,mangsir
-87116090.0,Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,2690.0,334894.598038086,104711.259,mangsir
-85459000.0,"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,19965.723293867,4733.82566577148,876.257,poush
-87024010.0,Buses with only electric motor for propulation,PCS,11.0,36605.364,6217.347,poush
-87024020.0,Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,67.0,226597.291,38491.518,poush
-87024030.0,Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,189.0,587252.2325,157576.961,poush
-87024049.0,"Jeep, car & van only electric motor for propulsion",PCS,172.0,392133.482,113159.26,poush
-87038029.0,"Electric car, jeep & van upto 50KW",PCS,2056.0,3835417.1978125,1148034.898,poush
-87038059.0,"Electric car, jeep & van 51KW to <=100KW",PCS,2970.0,8455453.86725,4149275.359,poush
-87038069.0,"Electric car, jeep & van > 101KW to <=200KW",PCS,68.0,349701.72225,246447.575,poush
-87038079.0,"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,13.0,92128.5775,129778.667,poush
-87116010.0,Cycle with electric motor for propulsion,PCS,1041.0,32325.5526013184,7832.991,poush
-87116090.0,Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,3667.0,420586.868819336,134110.395,poush
-85459000.0,"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,21012.723293867,5029.74341003418,932.071,magh
-87024010.0,Buses with only electric motor for propulation,PCS,11.0,36605.364,6217.347,magh
-87024020.0,Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,67.0,226597.291,38491.518,magh
-87024030.0,Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,264.0,823232.2875,220890.544,magh
-87024049.0,"Jeep, car & van only electric motor for propulsion",PCS,182.0,415407.816,119404.519,magh
-87038029.0,"Electric car, jeep & van upto 50KW",PCS,2677.0,4961808.9239375,1485158.492,magh
-87038059.0,"Electric car, jeep & van 51KW to <=100KW",PCS,3394.0,9589531.5235,4706385.268,magh
-87038069.0,"Electric car, jeep & van > 101KW to <=200KW",PCS,70.0,359758.12075,253574.272,magh
-87038079.0,"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,18.0,129847.244,182911.828,magh
-87116010.0,Cycle with electric motor for propulsion,PCS,1426.0,40582.6734138184,9840.604,magh
-87116090.0,Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,4060.0,482454.136010742,152902.029,magh
+Description,Unit,Quantity,Imports_Value,Imports_Revenue,Month
+Other equipment for the heat treatment of materials by induction or dielectric loss,PCS,157.0,966.897380126953,237.62,shrawan
+"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,10683.6254999861,932.866881347656,173.856,shrawan
+Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,6.0,15484.8905,4155.477,shrawan
+"Jeep, car & van only electric motor for propulsion",PCS,5.0,12821.2085,3440.855,shrawan
+"Electric car, jeep & van upto 50KW",PCS,21.0,45482.343,13610.814,shrawan
+"Electric car, jeep & van 51KW to <=100KW",PCS,81.0,258336.3745,126883.421,shrawan
+"Electric car, jeep & van > 101KW to <=200KW",PCS,5.0,13980.5605,9761.594,shrawan
+"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,3.0,22811.757,32134.23,shrawan
+Cycle with electric motor for propulsion,PCS,350.0,11312.958347168,2750.751,shrawan
+Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,376.0,55362.7056845703,17207.686,shrawan
+Other equipment for the heat treatment of materials by induction or dielectric loss,PCS,308.0,1139.96851098633,280.244,bhadra
+"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,10831.2433000021,994.833272949219,185.419,bhadra
+Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,36.0,108513.6265,29114.143,bhadra
+"Jeep, car & van only electric motor for propulsion",PCS,112.0,252655.008,74887.089,bhadra
+"Electric car, jeep & van upto 50KW",PCS,255.0,496589.0569375,148680.545,bhadra
+"Electric car, jeep & van 51KW to <=100KW",PCS,631.0,1876426.4695,920212.934,bhadra
+"Electric car, jeep & van > 101KW to <=200KW",PCS,9.0,35767.737,25050.254,bhadra
+"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,3.0,22811.757,32134.23,bhadra
+Cycle with electric motor for propulsion,PCS,517.0,14070.2228071289,3421.336,bhadra
+Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,855.0,99563.6736396485,32869.771,bhadra
+Other equipment for the heat treatment of materials by induction or dielectric loss,PCS,364.0,2055.92987353516,503.961,ashwin
+"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,11158.6433007829,1622.06366790771,302.152,ashwin
+Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,20.0,65066.523,11053.243,ashwin
+Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,105.0,324307.0905,87010.291,ashwin
+"Jeep, car & van only electric motor for propulsion",PCS,139.0,314992.173,92459.533,ashwin
+"Electric car, jeep & van upto 50KW",PCS,954.0,1722871.3273125,515705.717999999,ashwin
+"Electric car, jeep & van 51KW to <=100KW",PCS,1166.0,3382428.614,1659897.918,ashwin
+"Electric car, jeep & van > 101KW to <=200KW",PCS,12.0,49013.419,34436.754,ashwin
+"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,3.0,22811.757,32134.23,ashwin
+Cycle with electric motor for propulsion,PCS,741.0,22254.8467785645,5410.547,ashwin
+Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,1371.0,170197.644311523,55032.765,ashwin
+Other equipment for the heat treatment of materials by induction or dielectric loss,PCS,375.0,8911.77576147461,2134.052,kartik
+"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,11171.6433007829,1626.55089788818,302.991,kartik
+Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,25.0,81393.354,13826.637,kartik
+Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,134.0,414452.0025,111196.407,kartik
+"Jeep, car & van only electric motor for propulsion",PCS,146.0,331353.4,96850.117,kartik
+"Electric car, jeep & van upto 50KW",PCS,1279.0,2394195.6258125,716644.09,kartik
+"Electric car, jeep & van 51KW to <=100KW",PCS,1481.0,4303241.7685,2109778.999,kartik
+"Electric car, jeep & van > 101KW to <=200KW",PCS,17.0,66540.077,46607.035,kartik
+"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,10.0,68772.76,96878.076,kartik
+Cycle with electric motor for propulsion,PCS,840.0,25820.2039812012,6279.196,kartik
+Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,2100.0,294760.883319336,92133.2,kartik
+Other equipment for the heat treatment of materials by induction or dielectric loss,PCS,392.0,9101.32421191407,2180.688,mangsir
+"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,13290.2433004044,2874.5763256836,533.622,mangsir
+Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,56.0,187620.798,31870.344,mangsir
+Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,134.0,414452.0025,111196.407,mangsir
+"Jeep, car & van only electric motor for propulsion",PCS,166.0,378120.0,109399.104,mangsir
+"Electric car, jeep & van upto 50KW",PCS,1595.0,2954399.2906875,884364.362999999,mangsir
+"Electric car, jeep & van 51KW to <=100KW",PCS,2028.0,5812391.9105,2851099.892,mangsir
+"Electric car, jeep & van > 101KW to <=200KW",PCS,52.0,262641.78925,184940.041,mangsir
+"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,11.0,77003.1395,108471.915,mangsir
+Cycle with electric motor for propulsion,PCS,891.0,26967.3757966309,6569.962,mangsir
+Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,2690.0,334894.598038086,104711.259,mangsir
+Other equipment for the heat treatment of materials by induction or dielectric loss,PCS,446.0,9656.24002246094,2288.044,poush
+"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,19965.723293867,4733.82566577148,876.257,poush
+Buses with only electric motor for propulation,PCS,11.0,36605.364,6217.347,poush
+Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,67.0,226597.291,38491.518,poush
+Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,189.0,587252.2325,157576.961,poush
+"Jeep, car & van only electric motor for propulsion",PCS,172.0,392133.482,113159.26,poush
+"Electric car, jeep & van upto 50KW",PCS,2056.0,3835417.1978125,1148034.898,poush
+"Electric car, jeep & van 51KW to <=100KW",PCS,2970.0,8455453.86725,4149275.359,poush
+"Electric car, jeep & van > 101KW to <=200KW",PCS,68.0,349701.72225,246447.575,poush
+"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,13.0,92128.5775,129778.667,poush
+Cycle with electric motor for propulsion,PCS,1041.0,32325.5526013184,7832.991,poush
+Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,3667.0,420586.868819336,134110.395,poush
+Other equipment for the heat treatment of materials by induction or dielectric loss,PCS,522.0,10914.6915499268,2594.186,magh
+"Articles of graphite or other carbon, nes,  for electrical purposes",Kg,21012.723293867,5029.74341003418,932.071,magh
+Buses with only electric motor for propulation,PCS,11.0,36605.364,6217.347,magh
+Mini buses (15 to 25 seater) With only electric motor for propulsion:,PCS,67.0,226597.291,38491.518,magh
+Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,264.0,823232.2875,220890.544,magh
+"Jeep, car & van only electric motor for propulsion",PCS,182.0,415407.816,119404.519,magh
+"Electric car, jeep & van upto 50KW",PCS,2677.0,4961808.9239375,1485158.492,magh
+"Electric car, jeep & van 51KW to <=100KW",PCS,3394.0,9589531.5235,4706385.268,magh
+"Electric car, jeep & van > 101KW to <=200KW",PCS,70.0,359758.12075,253574.272,magh
+"Electric Car, Jeep, Van with motors pick power  201KW to 300 KW",PCS,18.0,129847.244,182911.828,magh
+Cycle with electric motor for propulsion,PCS,1426.0,40582.6734138184,9840.604,magh
+Others (except cycle) motorcycle & scooter with electric motor for propulsion,PCS,4060.0,482454.136010742,152902.029,magh

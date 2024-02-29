@@ -34,7 +34,6 @@ for i, filename in enumerate(filenames):
     df['Month'] = months[i]
 
     dfs.append(df)
-    prev_df = df.copy()
 merge_df = pd.concat(dfs)
 merge_df.reset_index(drop=True, inplace=True)
 merge_df.to_csv(r'C:\Users\acer\biddhut\rahul\data.csv', index=False)

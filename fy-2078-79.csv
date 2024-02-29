@@ -1,0 +1,628 @@
+year,month,hscode,description,unit,quantity,value,revenue
+2078,4,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,15183.0,18808.1618208923,4564.981
+2078,4,85162100.0,Electric storage heating radiators   .,PCS,1025.0,1457.70571044922,354.951
+2078,4,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,6713.0,5983.17511019135,1445.66
+2078,4,85163100.0,Electro-thermic hair dryers   .,PCS,6623.10000000149,4265.97560548401,1043.452
+2078,4,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,2811.0,1205.01238146973,296.016
+2078,4,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,10.0,140.505108642578,34.212
+2078,4,85164000.0,Electrical smoothing irons   .,PCS,2873.0,1736.96591156006,419.611
+2078,4,85165000.0,Microwave ovens   .,PCS,2008.0,22331.7828067169,5248.949
+2078,4,85166011.0,Induction stove,PCS,63.0,85.410130859375,12.205
+2078,4,85166019.0,Others,PCS,508.0,276.438424804688,51.625
+2078,4,85166020.0,Rice cooker,PCS,18600.0,21219.8603314209,5180.617
+2078,4,85166030.0,"Electric Kettle, jug use for boiling water",PCS,68897.0,35120.1131317902,8555.769
+2078,4,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,1447.0,10910.547801712,2596.318
+2078,4,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,552.0,14603.5618344727,3549.834
+2078,4,85167200.0,Electro-thermic toasters  . .,PCS,4712.0,5801.15302929688,1405.283
+2078,4,85167910.0,Electric insect trap,PCS,2209.0,301.710244140625,73.453
+2078,4,85167990.0,Other electro thermic appliances,PCS,54721.0,11456.2638974991,2904.999
+2078,4,85168000.0,Electric heating resistors (excl those of   545).,PCS,3338.0,6768.69068746948,1656.681
+2078,4,85169000.0,Parts of electro-thermic appliances,PCS,270429.0,8298.33204786682,1556.75
+2078,4,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,384.0,70818.26,60293.16
+2078,4,87032119.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,18.0,2583.506,3231.266
+2078,4,87032199.0,Other vehicles having capacity <=1000CC,PCS,337.0,307896.9745,680303.509
+2078,4,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,12.0,15778.247375,36469.164
+2078,4,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,881.0,815682.519125,1886862.596
+2078,4,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,19.0,61061.7105,150078.614
+2078,4,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,5.0,15614.457,41553.463
+2078,4,87032490.0,Other vehicle (Petrol engine) capacity >3000CC,PCS,42.0,48754.0879375,22612.16
+2078,4,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,36.0,42898.7678125,94850.814
+2078,4,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,84.0,121587.39225,295137.762
+2078,4,87033229.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,12.0,28126.736,75222.988
+2078,4,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,28.0,123334.2725,385207.816
+2078,4,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out ABOVE 2000 CC,PCS,1.0,10074.758,18614.188
+2078,4,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,40.0,4978.392,1209.816
+2078,4,87038019.0,Electric three wheelers vehicles,PCS,188.0,18755.3640546875,4552.383
+2078,4,87038029.0,"Electric car, jeep & van upto 100KW",PCS,44.0,139881.48775,33921.336
+2078,4,87038059.0,"Electric car, jeep & van > 150KW to <=200KW",PCS,61.0,194047.498,58117.427
+2078,4,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,33.0,58233.840625,19375.963
+2078,4,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,27.0,38490.297,37175.269
+2078,4,87021030.0,Ambulance & Sab-Bahan,PCS,3.0,5924.288,59.44
+2078,4,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,7.0,27292.563,50426.208
+2078,4,87024020.0,With only electric motor for propulsion:,PCS,1.0,5548.4255,784.059
+2078,4,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,5.0,2785.2325,6158.239
+2078,4,87112011.0,Motorcycles with reciprocating engine of c  pacity 50-250cc,PCS,9907.0,1113004.40710937,987556.991
+2078,4,87112019.0,Motorcycles with reciprocating engine of c  pacity 50-250cc,PCS,2.0,258.4471328125,0.13
+2078,4,87112091.0,Motorcycles with reciprocating engine of c  pacity 50-250cc,PCS,19553.0,1649243.42633594,1703339.758
+2078,4,87112099.0,Motorcycles with reciprocating engine of c  pacity 50-250cc,PCS,1232.0,214145.428328125,251773.185
+2078,4,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,127.0,33193.134875,43924.349
+2078,4,87116010.0,With electric motor for propulsion,PCS,16.0,493.4976875,119.986
+2078,4,87116090.0,With electric motor for propulsion,PCS,156.0,9438.8571484375,2293.776
+2078,5,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,37196.2727279663,31958.7607386856,7820.8240000000005
+2078,5,85162100.0,Electric storage heating radiators   .,PCS,942.0,1178.3386249999999,249.78499999999997
+2078,5,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,8439.0,8326.429263366652,1955.68
+2078,5,85163100.0,Electro-thermic hair dryers   .,PCS,13108.000000000011,4964.657222824099,1245.606
+2078,5,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,630.0,416.80009091186,102.39999999999998
+2078,5,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,1923.0,790.139090881348,192.015
+2078,5,85164000.0,Electrical smoothing irons   .,PCS,7962.0,6667.3343788147,1603.0949999999998
+2078,5,85165000.0,Microwave ovens   .,PCS,4013.0,31810.361383514402,7429.751000000001
+2078,5,85166011.0,Induction stove,PCS,7227.0,17170.087235351526,2426.3360000000002
+2078,5,85166012.0,Infrared stove,PCS,5748.0,12834.5345,1813.59
+2078,5,85166020.0,Rice cooker,PCS,49379.0,58865.607618530295,14275.118
+2078,5,85166030.0,"Electric Kettle, jug use for boiling water",PCS,83000.0,44695.3469807739,10856.282
+2078,5,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,4632.0,19890.0590066529,4793.335
+2078,5,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,382.0,16155.8563060302,3926.7260000000006
+2078,5,85167200.0,Electro-thermic toasters  . .,PCS,8025.0,12704.819279602021,3087.458
+2078,5,85167910.0,Electric insect trap,PCS,7755.0,12060.728948242177,2940.04
+2078,5,85167990.0,Other electro thermic appliances,PCS,87751.0,27533.167020934998,7203.07
+2078,5,85168000.0,Electric heating resistors (excl those of   545).,PCS,24025.2476005554,5459.646503829921,1356.8400000000001
+2078,5,85169000.0,Parts of electro-thermic appliances,PCS,861476.0,17442.161376815784,3261.224
+2078,5,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,487.0,90494.05525000002,77418.003
+2078,5,87032199.0,Other vehicles having capacity <=1000CC,PCS,491.0,405666.70912499994,896940.472
+2078,5,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2078,5,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,1403.0,1354394.0365,3132041.1340000005
+2078,5,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,38.0,122729.94387500001,301647.17
+2078,5,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,1.0,1930.175000000001,3252.1789999999964
+2078,5,87032490.0,Ambulance & Sab Bahan,PCS,68.0,74063.1361875,22866.814
+2078,5,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,129.0,150053.98325,331771.98099999997
+2078,5,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,84.0,151673.938375,366680.44200000004
+2078,5,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,29.0,133720.06650000002,405090.689
+2078,5,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out ABOVE 2000 CC,PCS,0.0,0.0,0.0
+2078,5,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,34.0,4307.8857499999995,1046.9489999999998
+2078,5,87038019.0,Electric three wheelers vehicles,PCS,149.0,11992.369593750002,2914.8060000000005
+2078,5,87038029.0,"Electric car, jeep & van upto 100KW",PCS,27.0,63672.71737500001,15133.325999999994
+2078,5,87038059.0,"Electric car, jeep & van > 150KW to <=200KW",PCS,11.0,42650.766250000015,12774.367999999995
+2078,5,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,41.0,77111.44462499999,28241.322000000004
+2078,5,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,25.0,37194.6255,35953.785
+2078,5,87021030.0,Ambulance & Sab-Bahan,PCS,0.0,0.0,0.0
+2078,5,87022010.0,Buses (with a capacity  more than 25 seats),PCS,10.0,18817.624,9872.848
+2078,5,87023010.0,Buses,PCS,22.0,42527.832,22312.667
+2078,5,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,12.0,51809.01700000001,95722.871
+2078,5,87024020.0,With only electric motor for propulsion:,PCS,0.0,0.0,0.0
+2078,5,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,16.0,38997.02,5510.345
+2078,5,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,10.0,5570.239,12315.980000000001
+2078,5,87112011.0,Motorcycles with reciprocating engine of c  pacity 50-250cc,PCS,8995.0,927759.5375468801,807046.026
+2078,5,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,672.0,72439.563,53783.947
+2078,5,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,617.0,80970.3713046875,58920.023
+2078,5,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,720.0,127623.02053125,172455.023
+2078,5,87116010.0,With electric motor for propulsion,PCS,0.0,0.0,0.0
+2078,5,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,6.0,67.610953125,71.439
+2078,6,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,79229.99999999968,107647.8082584231,24826.32
+2078,6,85162100.0,Electric storage heating radiators   .,PCS,211.0,23.707760498049993,5.764999999999986
+2078,6,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,25631.0,16120.7929562989,3948.2290000000003
+2078,6,85163100.0,Electro-thermic hair dryers   .,PCS,13762.999999999996,3687.95377276609,950.9209999999998
+2078,6,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,5963.0,2559.45055627442,630.971
+2078,6,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,2853.0,1838.192398437504,476.149
+2078,6,85164000.0,Electrical smoothing irons   .,PCS,17837.0,11485.58972137454,2631.398
+2078,6,85165000.0,Microwave ovens   .,PCS,3858.0,41367.8904276734,8988.259999999998
+2078,6,85166011.0,Induction stove,PCS,1792.0,3814.010468994198,539.0639999999999
+2078,6,85166012.0,Infrared stove,PCS,0.0,0.0,0.0
+2078,6,85166020.0,Rice cooker,PCS,9920.0,11890.140380920406,2910.810999999998
+2078,6,85166030.0,"Electric Kettle, jug use for boiling water",PCS,133151.0,54762.7174665529,13330.684000000001
+2078,6,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,2141.0,2596.872186859102,631.0729999999994
+2078,6,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,136.0,12510.719787201,3040.8360000000002
+2078,6,85167200.0,Electro-thermic toasters  . .,PCS,6514.0,7952.3321868286,1916.8469999999998
+2078,6,85167910.0,Electric insect trap,PCS,2908.0,3836.1256811524,935.357
+2078,6,85167990.0,Other electro thermic appliances,PCS,217963.0,69869.5176416929,17647.229
+2078,6,85168000.0,Electric heating resistors (excl those of   545).,PCS,12612.2,6791.3038360596,1659.3539999999998
+2078,6,85169000.0,Parts of electro-thermic appliances,PCS,183826.5,9599.6142815833,1863.1800000000003
+2078,6,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,325.0,61539.841999999975,52393.65299999999
+2078,6,87032199.0,Other vehicles having capacity <=1000CC,PCS,836.0,738154.664125,1632079.254
+2078,6,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2078,6,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,1376.0,1341454.592375,3101129.8029999994
+2078,6,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,45.0,126644.40849999999,310894.304
+2078,6,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,6.0,37576.356,0.0650000000023283
+2078,6,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,3.0,12788.713,0.0
+2078,6,87032490.0,Ambulance & Sab Bahan,PCS,17.0,21393.639624999996,215.0450000000019
+2078,6,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,86.0,116258.33937499998,257049.212
+2078,6,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,182.0,261627.555125,628407.427
+2078,6,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,22.0,96213.54199999999,291510.62
+2078,6,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out UPTO 2000 CC,PCS,2.0,17298.088,31960.081
+2078,6,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,195.0,17784.497187499997,4316.9130000000005
+2078,6,87038019.0,Electric three wheelers vehicles,PCS,390.0,39542.44278125001,9610.072999999999
+2078,6,87038029.0,"Electric car, jeep & van upto 100KW",PCS,40.0,88704.61049999998,21213.210000000006
+2078,6,87038059.0,"Electric car, jeep & van > 150KW to <=200KW",PCS,263.0,807343.49625,241799.98200000002
+2078,6,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,42.0,73715.87612500001,28258.47
+2078,6,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,19.0,28537.992,27619.150999999998
+2078,6,87021030.0,Ambulance & Sab-Bahan,PCS,0.0,0.0,0.0
+2078,6,87021049.0,"Jeep, car & van (compression ignition internal combustion piston engineABOVE 2000 CC",PCS,12.0,6641.386375,14684.366
+2078,6,87022010.0,Buses (with a capacity  more than 25 seats),PCS,3.0,4484.200000000001,2352.8469999999998
+2078,6,87023010.0,Buses,PCS,0.0,0.0,0.0
+2078,6,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,9.0,36110.784,66718.883
+2078,6,87024020.0,With only electric motor for propulsion:,PCS,0.0,0.0,0.0
+2078,6,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,0.0,0.0,0.0
+2078,6,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,10.0,5570.239,12315.98
+2078,6,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,21381.0,2235629.67478125,1938331.421
+2078,6,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,6646.0,704083.10225,522758.065
+2078,6,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,263.0,35350.00140625049,25058.210999999996
+2078,6,87112091.0,Motorcycles with reciprocating engine of c  pacity 50-250cc,PCS,39291.0,2742962.62632812,3144001.7369999997
+2078,6,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,7178.0,816048.313859375,962391.226
+2078,6,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,1485.0,254861.21159375002,411269.402
+2078,6,87116010.0,With electric motor for propulsion,PCS,60.0,3151.1046875,764.42
+2078,6,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,2.0,78.5421875,19.087
+2078,6,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,0.0,0.0,0.0
+2078,7,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,82535.0,129004.93411596699,30142.009000000005
+2078,7,85162100.0,Electric storage heating radiators   .,PCS,2.0,64.55036132812029,15.687999999999988
+2078,7,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,55960.0,85439.1504473041,20644.812
+2078,7,85163100.0,Electro-thermic hair dryers   .,PCS,18072.0,8036.436082428001,2029.0300000000002
+2078,7,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,5223.0,2374.1673287353506,544.588
+2078,7,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,46.0,936.4030546875001,227.61300000000006
+2078,7,85164000.0,Electrical smoothing irons   .,PCS,14220.5,9047.1024980392,2146.357
+2078,7,85165000.0,Microwave ovens   .,PCS,2319.0,26093.9488067013,6206.394
+2078,7,85166011.0,Induction stove,PCS,2185.0,5007.751785156201,707.7339999999999
+2078,7,85166012.0,Infrared stove,PCS,0.0,0.0,0.0
+2078,7,85166020.0,Rice cooker,PCS,33798.0,34479.280111389395,8516.856
+2078,7,85166030.0,"Electric Kettle, jug use for boiling water",PCS,217355.0,102525.32007177698,24993.584000000003
+2078,7,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,4800.0,23830.2876907845,5730.101
+2078,7,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,9712.0,29947.869926513602,7277.418999999998
+2078,7,85167200.0,Electro-thermic toasters  . .,PCS,3243.0,4295.0449500732975,1038.8230000000003
+2078,7,85167910.0,Electric insect trap,PCS,943.0,472.57998547359966,115.14400000000023
+2078,7,85167990.0,Other electro thermic appliances,PCS,152358.0,44635.43464418099,11168.750000000004
+2078,7,85168000.0,Electric heating resistors (excl those of   545).,PCS,12953.400012195096,5554.843912734999,1373.1999999999998
+2078,7,85169000.0,Parts of electro-thermic appliances,PCS,168498.25,5899.407602198597,1169.2859999999991
+2078,7,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,250.0,48535.46000000002,41321.99000000002
+2078,7,87032199.0,Other vehicles having capacity <=1000CC,PCS,280.0,241821.28468749998,534672.6780000003
+2078,7,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2078,7,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,1075.0,1050514.9681562502,2430599.1400000006
+2078,7,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,26.0,76668.41725,186802.24800000002
+2078,7,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,1.0,2848.245999999999,7579.818999999996
+2078,7,87032339.0,Vehicles of a cylinder capacity exceeding   500 cc but not exceeding 3000 cc.,PCS,2.0,11482.448,32892.692
+2078,7,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,0.0,0.0,0.0
+2078,7,87032490.0,Ambulance & Sab Bahan,PCS,14.0,13864.800437500002,139.4969999999994
+2078,7,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,53.0,81619.09525000001,180461.03000000003
+2078,7,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,47.0,96803.90687499999,234387.43500000006
+2078,7,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,34.0,159927.338,486766.36100000003
+2078,7,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out ABOVE 2000 CC,PCS,3.0,27973.599,51684.221
+2078,7,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,96.0,12531.388875000004,3045.392
+2078,7,87038019.0,Electric three wheelers vehicles,PCS,996.0,98723.69023437449,23900.969
+2078,7,87038029.0,"Electric car, jeep & van upto 100KW",PCS,99.0,274681.24425000005,65693.95799999998
+2078,7,87038059.0,"Electric car, jeep & van > 150KW to <=200KW",PCS,128.0,394273.495,118085.174
+2078,7,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,49.0,91457.04787500002,30447.930999999997
+2078,7,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,12.0,15899.37225,15267.792000000001
+2078,7,87021030.0,Ambulance & Sab-Bahan,PCS,2.0,6253.5035,62.666
+2078,7,87021049.0,"Jeep, car & van (compression ignition internal combustion piston engineABOVE 2000 CC",PCS,0.0,0.0,0.0
+2078,7,87022010.0,Buses (with a capacity  more than 25 seats),PCS,16.0,28346.550000000003,14872.418000000001
+2078,7,87023010.0,Buses,PCS,0.0,0.0,0.0
+2078,7,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,8.0,34876.299,64437.715000000026
+2078,7,87024020.0,With only electric motor for propulsion:,PCS,0.0,0.0,0.0
+2078,7,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,24.0,59017.99600000001,8339.308
+2078,7,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,5.0,2785.1195000000025,6157.989999999998
+2078,7,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,1663.0,116948.69635937037,85353.38299999991
+2078,7,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,4998.0,543623.0752500001,403621.858
+2078,7,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,916.0,139788.08839062502,103213.37
+2078,7,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,5070.0,612388.0592031251,721264.3699999999
+2078,7,87113010.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle (UNASSEMBLED)",PCS,72.0,15606.938,11587.594
+2078,7,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,1006.0,215019.91153124993,348722.11400000006
+2078,7,87115000.0,Motorcycles with reciprocating piston engi  e of capacity >800cc.,PCS,1.0,2507.45925,4859.523
+2078,7,87116010.0,With electric motor for propulsion,PCS,42.0,1854.5693339843797,448.61699999999996
+2078,7,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,165.0,14361.8961875,3490.081
+2078,7,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,0.0,0.0,0.0
+2078,8,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,135509.00000000003,207748.06973429804,48061.227
+2078,8,85162100.0,Electric storage heating radiators   .,PCS,1883.0,2871.5221938476598,703.911
+2078,8,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,54865.0,69143.91580371099,17000.528
+2078,8,85163100.0,Electro-thermic hair dryers   .,PCS,13036.0,3636.764376709001,919.9589999999998
+2078,8,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,13333.0,4530.820098297139,1128.2110000000002
+2078,8,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,2.0,66.2099609375,0.0
+2078,8,85164000.0,Electrical smoothing irons   .,PCS,16109.0,10454.649365325902,2570.692
+2078,8,85165000.0,Microwave ovens   .,PCS,3587.0,39690.789998046996,8897.124000000003
+2078,8,85166011.0,Induction stove,PCS,2622.0,4674.523692871102,666.3410000000003
+2078,8,85166012.0,Infrared stove,PCS,3582.0,7277.635609375002,1028.3999999999999
+2078,8,85166020.0,Rice cooker,PCS,34067.0,49378.994030334,11941.816000000003
+2078,8,85166030.0,"Electric Kettle, jug use for boiling water",PCS,132001.0,51456.04122229002,12496.675999999992
+2078,8,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,2441.0,6915.3678994445,1646.5290000000005
+2078,8,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,4021.0,10622.915390380891,2585.5790000000015
+2078,8,85167200.0,Electro-thermic toasters  . .,PCS,550.0,1233.8596962280026,295.28700000000026
+2078,8,85167910.0,Electric insect trap,PCS,2707.0,2249.7166610107015,550.953
+2078,8,85167990.0,Other electro thermic appliances,PCS,108123.0,32729.40021188301,8289.634999999995
+2078,8,85168000.0,Electric heating resistors (excl those of   545).,PCS,86043.00000000051,28471.2993087921,6805.723000000001
+2078,8,85169000.0,Parts of electro-thermic appliances,PCS,237122.0,12318.9590038049,2387.6410000000005
+2078,8,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,100.0,19414.18400000001,16528.796000000002
+2078,8,87032199.0,Other vehicles having capacity <=1000CC,PCS,179.0,156444.02078124997,345902.68200000003
+2078,8,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2078,8,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,792.0,820217.9104999993,1898871.9619999994
+2078,8,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,14.0,41682.50975000003,102447.75299999991
+2078,8,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,1.0,1849.813000000002,3116.7810000000027
+2078,8,87032339.0,Vehicles of a cylinder capacity exceeding   500 cc but not exceeding 3000 cc.,PCS,1.0,8585.048999999999,24592.799999999996
+2078,8,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,0.0,0.0,0.0
+2078,8,87032490.0,Ambulance & Sab Bahan,PCS,17.0,21322.179437500003,214.33100000000195
+2078,8,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,22.0,38351.426749999984,84795.58999999997
+2078,8,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,120.0,157241.08325000003,380111.81499999994
+2078,8,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,10.0,47938.13175,147074.86400000006
+2078,8,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out ABOVE 2000 CC,PCS,0.0,0.0,0.0
+2078,8,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,165.0,15172.326499999996,3687.1399999999994
+2078,8,87038019.0,Electric three wheelers vehicles,PCS,515.0,46962.575085938006,11412.966
+2078,8,87038029.0,"Electric car, jeep & van upto 100KW",PCS,98.0,242172.6265,58011.321000000025
+2078,8,87038059.0,"Electric car, jeep & van > 150KW to <=200KW",PCS,142.0,431972.2720000001,129375.82400000002
+2078,8,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,28.0,48985.391,25701.44799999999
+2078,8,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,25.0,37532.84575000001,36277.456999999995
+2078,8,87021030.0,Ambulance & Sab-Bahan,PCS,2.0,3368.8385,33.81999999999999
+2078,8,87021049.0,"Jeep, car & van (compression ignition internal combustion piston engineABOVE 2000 CC",PCS,6.0,3291.3719999999994,7277.384
+2078,8,87022010.0,Buses (with a capacity  more than 25 seats),PCS,1.0,1665.5599999999977,873.9069999999992
+2078,8,87023010.0,Buses,PCS,0.0,0.0,0.0
+2078,8,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,7.0,29385.649000000005,54293.25699999998
+2078,8,87024020.0,With only electric motor for propulsion:,PCS,0.0,0.0,0.0
+2078,8,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,2.0,4142.475999999995,585.3979999999992
+2078,8,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,0.0,0.0,0.0
+2078,8,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,1255.0,95503.24429687997,70687.69800000009
+2078,8,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,5458.0,622646.2349999999,462293.691
+2078,8,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,2373.0,300320.07378125,222219.57300000003
+2078,8,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,4205.0,506412.1767968701,597982.665
+2078,8,87113010.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle (UNASSEMBLED)",PCS,0.0,0.0,0.0
+2078,8,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,920.0,155917.65959375002,251604.39699999988
+2078,8,87115000.0,Motorcycles with reciprocating piston engi  e of capacity >800cc.,PCS,0.0,0.0,0.0
+2078,8,87116010.0,With electric motor for propulsion,PCS,247.0,6534.291039062521,1587.977
+2078,8,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,0.0,0.0,0.0
+2078,8,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,0.0,0.0,0.0
+2078,9,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,42195.0,120915.993378754,27590.663
+2078,9,85162100.0,Electric storage heating radiators   .,PCS,2563.0,8322.35647070315,2022.4010000000003
+2078,9,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,33808.0,51491.72127713001,12239.483999999997
+2078,9,85163100.0,Electro-thermic hair dryers   .,PCS,16705.000000000007,5789.201036743099,1524.2150000000001
+2078,9,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,4752.0,4184.401127929701,1035.7639999999997
+2078,9,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,534.0,256.16838513182984,61.956999999999994
+2078,9,85164000.0,Electrical smoothing irons   .,PCS,16190.0,10312.024761276298,2280.749
+2078,9,85165000.0,Microwave ovens   .,PCS,1676.0,10878.077373169013,2637.0020000000004
+2078,9,85166011.0,Induction stove,PCS,7657.0,15599.616307128897,2208.9929999999995
+2078,9,85166012.0,Infrared stove,PCS,1580.0,3309.2821015624977,467.6060000000002
+2078,9,85166020.0,Rice cooker,PCS,13656.0,21067.856553406018,4965.423999999999
+2078,9,85166030.0,"Electric Kettle, jug use for boiling water",PCS,80352.0,28064.677018554998,6819.887000000002
+2078,9,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,4755.0,14187.814117736802,3444.958999999999
+2078,9,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,1041.0,24019.69215258761,5837.787
+2078,9,85167200.0,Electro-thermic toasters  . .,PCS,30.0,541.773239623999,131.64899999999943
+2078,9,85167910.0,Electric insect trap,PCS,561.0,904.797167968798,220.10800000000017
+2078,9,85167990.0,Other electro thermic appliances,PCS,78887.0,26675.851169258007,6687.957000000002
+2078,9,85168000.0,Electric heating resistors (excl those of   545).,PCS,49208.0,10272.4690171599,2521.4339999999993
+2078,9,85169000.0,Parts of electro-thermic appliances,PCS,224075.4199981701,9155.618491752699,1823.5409999999993
+2078,9,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,100.0,19414.18400000001,16528.795999999973
+2078,9,87032199.0,Other vehicles having capacity <=1000CC,PCS,216.0,170082.19706250005,376057.1639999994
+2078,9,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2078,9,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,746.0,745392.3727500001,1723151.0529999994
+2078,9,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,18.0,58422.76324999996,142827.93500000006
+2078,9,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,0.0,0.0,0.0
+2078,9,87032339.0,Vehicles of a cylinder capacity exceeding   500 cc but not exceeding 3000 cc.,PCS,0.0,0.0,0.0
+2078,9,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,0.0,0.0,0.0
+2078,9,87032490.0,Ambulance & Sab Bahan,PCS,66.0,64892.6269375,652.6619999999966
+2078,9,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,6.0,7445.623750000028,16462.54099999997
+2078,9,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,73.0,103212.72137499996,220514.2250000001
+2078,9,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,4.0,20066.839999999967,61565.33199999994
+2078,9,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out ABOVE 2000 CC,PCS,3.0,34028.778000000006,62871.772000000004
+2078,9,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,200.0,16364.982000000004,3976.9540000000015
+2078,9,87038019.0,Electric three wheelers vehicles,PCS,713.0,56728.13746875001,13785.936000000002
+2078,9,87038029.0,"Electric car, jeep & van upto 100KW",PCS,88.0,234042.41799999995,55791.687999999995
+2078,9,87038049.0,"Electric car, jeep & van  > 100KW to <=150KW",PCS,13.0,36771.468,0.065
+2078,9,87038059.0,"Electric car, jeep & van > 150KW to <=200KW",PCS,87.0,267427.5192500001,80334.59100000001
+2078,9,87038079.0,"Electric car, jeep & van > 300KW",PCS,2.0,25678.8,14945.127
+2078,9,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,10.0,22536.246374999988,11824.233000000007
+2078,9,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,14.0,18319.360125000007,17591.956999999995
+2078,9,87021030.0,Ambulance & Sab-Bahan,PCS,0.0,0.0,0.0
+2078,9,87021049.0,"Jeep, car & van (compression ignition internal combustion piston engine)UP TO 2000 CC",PCS,33.0,26254.340875,22125.097
+2078,9,87022010.0,Buses (with a capacity  more than 25 seats),PCS,2.0,3459.239999999998,1815.0319999999992
+2078,9,87023010.0,Buses,PCS,0.0,0.0,0.0
+2078,9,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,6.0,25623.973999999987,41101.13899999997
+2078,9,87024020.0,With only electric motor for propulsion:,PCS,0.0,0.0,0.0
+2078,9,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,0.0,0.0,0.0
+2078,9,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,0.0,0.0,0.0
+2078,9,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,3027.0,241837.9010234396,179369.31299999985
+2078,9,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,5972.0,781651.3270000003,580349.4510000001
+2078,9,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,4109.0,546125.128046877,404838.655
+2078,9,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,952.0,122908.11962500983,144954.41900000023
+2078,9,87113010.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle (UNASSEMBLED)",PCS,2.0,304.7364062500001,232.52100000000064
+2078,9,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,665.0,125777.85731250001,202967.30099999998
+2078,9,87114000.0,Motorcycles with reciprocating piston engi  e of capacity 500-800cc,PCS,4.0,2462.0785,4771.512
+2078,9,87115000.0,Motorcycles with reciprocating piston engi  e of capacity >800cc.,PCS,0.0,0.0,0.0
+2078,9,87116010.0,With electric motor for propulsion,PCS,64.0,3343.0076745299993,812.556
+2078,9,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,0.0,0.0,0.0
+2078,9,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,0.0,0.0,0.0
+2078,10,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,9592.0,19506.053533019964,4667.046999999991
+2078,10,85162100.0,Electric storage heating radiators   .,PCS,86.0,321.59290669250004,78.154
+2078,10,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,3951.0,8879.838487472007,2179.954000000005
+2078,10,85163100.0,Electro-thermic hair dryers   .,PCS,12424.0,4012.6648652954973,1029.3890000000001
+2078,10,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,3769.0,2396.2283887099984,583.1880000000001
+2078,10,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,337.0,823.6907968749997,200.23400000000004
+2078,10,85164000.0,Electrical smoothing irons   .,PCS,28861.0,15809.504261779803,3698.5570000000007
+2078,10,85165000.0,Microwave ovens   .,PCS,5078.0,59984.467265868996,13680.464999999997
+2078,10,85166011.0,Induction stove,PCS,7444.0,14370.117634826704,2037.9280000000008
+2078,10,85166012.0,Infrared stove,PCS,1162.0,1799.7251726073991,254.3040000000001
+2078,10,85166020.0,Rice cooker,PCS,37763.0,56246.88249096699,13706.552000000003
+2078,10,85166030.0,"Electric Kettle, jug use for boiling water",PCS,98220.0,42397.602545898,10294.797999999995
+2078,10,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,2662.0,11359.8554391098,2699.9670000000006
+2078,10,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,226.0,23046.341500557,5598.284
+2078,10,85167200.0,Electro-thermic toasters  . .,PCS,652.0,1861.0826092834977,462.02000000000044
+2078,10,85167910.0,Electric insect trap,PCS,35087.0,3540.0397650146006,860.299
+2078,10,85167990.0,Other electro thermic appliances,PCS,25016.0,17851.336673157,4373.373
+2078,10,85168000.0,Electric heating resistors (excl those of   545).,PCS,2512.0,3037.3996475220047,793.3510000000006
+2078,10,85169000.0,Parts of electro-thermic appliances,PCS,19588.0,2155.324870201104,415.90400000000045
+2078,10,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,100.0,19414.18399999995,16528.79600000003
+2078,10,87032199.0,Other vehicles having capacity <=1000CC,PCS,332.0,229874.02131250012,508257.142
+2078,10,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,1.0,2472.22875,0.0
+2078,10,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,275.0,300769.25793750025,698796.3270000014
+2078,10,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,17.0,46104.03625000006,111764.33400000003
+2078,10,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,6.0,16783.319250000008,43023.770000000004
+2078,10,87032339.0,Vehicles of a cylinder capacity exceeding   500 cc but not exceeding 3000 cc.,PCS,0.0,0.0,0.0
+2078,10,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,0.0,0.0,0.0
+2078,10,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,8.0,9771.393125000002,21604.902000000002
+2078,10,87033200.0,Ambulance & sab-bahan of diesel engine of   apacity between 1500cc to 2500cc.,PCS,1.0,2568.953,2586.693
+2078,10,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,142.0,191326.2501249999,461962.9329999997
+2078,10,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,7.0,35812.119000000064,109872.05199999991
+2078,10,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out UPTO 2000 CC,PCS,12.0,100816.8135,186269.755
+2078,10,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,0.0,0.0,0.0
+2078,10,87038019.0,Electric three wheelers vehicles,PCS,990.0,119279.11196875002,28951.602
+2078,10,87038029.0,"Electric car, jeep & van upto 100KW",PCS,82.0,230692.5070000001,55413.263999999996
+2078,10,87038049.0,"Electric car, jeep & van  > 100KW to <=150KW",PCS,0.0,0.0,0.0
+2078,10,87038059.0,"Electric car, jeep & van > 150KW to <=200KW",PCS,6.0,23860.04349999968,7146.2179999999935
+2078,10,87038079.0,"Electric car, jeep & van > 300KW",PCS,0.0,0.0,0.0
+2078,10,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,32.0,58297.01799999998,16668.42300000001
+2078,10,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,12.0,16799.32237499999,16132.315000000002
+2078,10,87021030.0,Micro-bus (11 to 14 seats)   .,PCS,12.0,21556.626875,7672.826
+2078,10,87021049.0,Ambulance & Sab Bahan,PCS,-141.0,-161643.858,7510.260000000002
+2078,10,87022010.0,Buses (with a capacity  more than 25 seats),PCS,1.0,1617.5149999999994,848.7000000000007
+2078,10,87023010.0,Buses,PCS,0.0,0.0,0.0
+2078,10,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,2.0,8792.770000000019,16245.65300000005
+2078,10,87024020.0,With only electric motor for propulsion:,PCS,0.0,0.0,0.0
+2078,10,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,0.0,0.0,0.0
+2078,10,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,0.0,0.0,0.0
+2078,10,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,3229.0,287706.6522500003,213500.97999999998
+2078,10,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,3712.0,410148.78199999966,304521.61100000003
+2078,10,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,3873.0,507201.04300000006,376455.211
+2078,10,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,2387.0,278569.30955468,328694.95299999975
+2078,10,87113010.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle (UNASSEMBLED)",PCS,0.0,0.0,0.0
+2078,10,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,642.0,98489.47725,158948.9770000002
+2078,10,87114000.0,Motorcycles with reciprocating piston engi  e of capacity 500-800cc,PCS,0.0,0.0,0.0
+2078,10,87115000.0,Motorcycles with reciprocating piston engi  e of capacity >800cc.,PCS,0.0,0.0,0.0
+2078,10,87116010.0,With electric motor for propulsion,PCS,393.0,13889.026749999999,3371.6649999999995
+2078,10,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,87.0,282.3632382812011,68.68199999999979
+2078,10,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,0.0,0.0,0.0
+2078,11,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,8483.0,18111.834226288018,4349.768000000011
+2078,11,85162100.0,Electric storage heating radiators   .,PCS,24.0,6.06227001949992,1.474999999999909
+2078,11,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,7439.0,15980.726471954986,3850.9199999999983
+2078,11,85163100.0,Electro-thermic hair dryers   .,PCS,15857.600000023493,5523.1630180053035,1359.1309999999994
+2078,11,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,9466.349999994003,4742.7749859619,1142.4139999999998
+2078,11,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,2122.0,895.3749951171903,217.28099999999995
+2078,11,85164000.0,Electrical smoothing irons   .,PCS,25891.0,16530.352609252892,3825.266999999998
+2078,11,85165000.0,Microwave ovens   .,PCS,831.0,10561.795370193984,2563.985999999997
+2078,11,85166011.0,Induction stove,PCS,8416.0,20022.956400512696,2839.697
+2078,11,85166012.0,Infrared stove,PCS,40.0,67.50371093750073,9.539999999999964
+2078,11,85166020.0,Rice cooker,PCS,53021.55000305199,67152.65010693297,16331.309999999998
+2078,11,85166030.0,"Electric Kettle, jug use for boiling water",PCS,53150.0,29880.513915954973,7441.693000000014
+2078,11,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,2778.0,7889.046171478301,1905.3150000000023
+2078,11,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,1517.0,20413.812523635992,4952.977999999999
+2078,11,85167200.0,Electro-thermic toasters  . .,PCS,2383.0,3769.9225095825022,912.0519999999997
+2078,11,85167910.0,Electric insect trap,PCS,23203.0,2266.6952336426,550.8189999999995
+2078,11,85167990.0,Other electro thermic appliances,PCS,146694.0,29627.575930724997,7273.7279999999955
+2078,11,85168000.0,Electric heating resistors (excl those of   545).,PCS,110957.0,14199.78741694639,3452.770999999999
+2078,11,85169000.0,Parts of electro-thermic appliances,PCS,719824.4999999998,7261.624767095498,1398.558000000001
+2078,11,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,150.0,29121.276000000013,24793.19399999996
+2078,11,87032199.0,Other vehicles having capacity <=1000CC,PCS,196.0,144498.97087500012,319492.1440000003
+2078,11,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2078,11,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,632.0,654784.8521875003,1512436.682
+2078,11,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,6.0,13713.481499999994,31247.152999999933
+2078,11,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,0.0,0.0,0.0
+2078,11,87032339.0,Vehicles of a cylinder capacity exceeding   500 cc but not exceeding 3000 cc.,PCS,0.0,0.0,0.0
+2078,11,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,0.0,0.0,0.0
+2078,11,87032490.0,Ambulance & Sab Bahan,PCS,170.0,192201.7834375,-7202.781999999999
+2078,11,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,41.0,54104.587750000006,119626.29299999995
+2078,11,87033200.0,Ambulance & sab-bahan of diesel engine of   apacity between 1500cc to 2500cc.,PCS,0.0,0.0,0.0
+2078,11,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,106.0,146964.8747500002,353249.4909999999
+2078,11,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,12.0,54535.70849999995,105837.89500000002
+2078,11,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out ABOVE 2000 CC,PCS,14.0,121907.5475,225237.133
+2078,11,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,34.0,2802.1399999999994,680.9860000000008
+2078,11,87038019.0,Electric three wheelers vehicles,PCS,759.0,67447.24425781297,16383.816999999995
+2078,11,87038029.0,"Electric car, jeep & van upto 100KW",PCS,147.0,386885.22124999994,92425.23200000002
+2078,11,87038049.0,"Electric car, jeep & van  > 100KW to <=150KW",PCS,0.0,0.0,0.0
+2078,11,87038059.0,"Electric car, jeep & van > 100KW to <=200KW",PCS,717.0,2246553.59225,673084.786
+2078,11,87038079.0,"Electric car, jeep & van > 300KW",PCS,0.0,0.0,0.0
+2078,11,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,35.0,63269.30137500004,30256.582999999984
+2078,11,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,8.0,10830.001374999993,10399.898000000016
+2078,11,87021030.0,Micro-bus (11 to 14 seats)   .,PCS,0.0,0.0,0.0
+2078,11,87021049.0,"Jeep, car & van (compression ignition internal combustion piston engine)UP TO 2000 CC",PCS,41.0,33892.524625,31598.609
+2078,11,87022010.0,Buses (with a capacity  more than 25 seats),PCS,4.0,6095.309000000001,3198.1860000000015
+2078,11,87023010.0,Buses,PCS,0.0,0.0,0.0
+2078,11,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,2.0,8096.489000000001,14959.205999999947
+2078,11,87024010.0,With only electric motor for propulsion:,PCS,1.0,39453.2465,5574.7429999999995
+2078,11,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,0.0,0.0,0.0
+2078,11,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,1.0,1545.2593749999978,3416.649000000005
+2078,11,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,2193.0,175352.78225000016,129605.53399999999
+2078,11,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,2788.0,285709.9587500002,212130.00199999986
+2078,11,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,1059.0,138818.82989061996,102745.42399999988
+2078,11,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,3107.0,375073.82798438007,443275.0750000002
+2078,11,87113010.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle (UNASSEMBLED)",PCS,0.0,0.0,0.0
+2078,11,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,320.0,52725.45400000003,85083.01099999994
+2078,11,87114000.0,Motorcycles with reciprocating piston engi  e of capacity 500-800cc,PCS,0.0,0.0,0.0
+2078,11,87115000.0,Motorcycles with reciprocating piston engi  e of capacity >800cc.,PCS,0.0,0.0,0.0
+2078,11,87116010.0,With electric motor for propulsion,PCS,92.0,8923.082580078102,2163.0600000000013
+2078,11,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,42.0,5445.1356562500005,1323.2370000000005
+2078,11,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,0.0,0.0,0.0
+2078,12,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,6465.0,13438.195220862981,3253.286999999982
+2078,12,85162100.0,Electric storage heating radiators   .,PCS,12.0,1.2000000000007276,0.2919999999999163
+2078,12,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,320.0,2175.281553649984,528.9349999999977
+2078,12,85163100.0,Electro-thermic hair dryers   .,PCS,8390.0,3339.6592760009953,811.6370000000006
+2078,12,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,10131.0,6824.587679321303,1695.254
+2078,12,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,2450.0,911.01024023437,224.53700000000003
+2078,12,85164000.0,Electrical smoothing irons   .,PCS,3715.0,2505.206660491909,601.1970000000001
+2078,12,85165000.0,Microwave ovens   .,PCS,3687.0,35003.30700744598,8442.950000000004
+2078,12,85166011.0,Induction stove,PCS,22300.0,42981.8819062503,6074.581
+2078,12,85166012.0,Infrared stove,PCS,9564.0,21525.181985351603,3041.645
+2078,12,85166020.0,Rice cooker,PCS,46540.0,84647.617018799,20347.985
+2078,12,85166030.0,"Electric Kettle, jug use for boiling water",PCS,50565.0,22750.020626953046,5526.181999999986
+2078,12,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,5128.0,22966.684262100098,5473.5
+2078,12,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,748.0,18115.723087432998,4400.917000000001
+2078,12,85167200.0,Electro-thermic toasters  . .,PCS,803.0,973.3064530029005,236.54099999999926
+2078,12,85167910.0,Electric insect trap,PCS,43562.0,4673.8706044922,1088.6530000000002
+2078,12,85167990.0,Other electro thermic appliances,PCS,7057.0,11011.784613892,2688.850000000006
+2078,12,85168000.0,Electric heating resistors (excl those of   545).,PCS,54414.0,9100.834474884105,2213.928
+2078,12,85169000.0,Parts of electro-thermic appliances,PCS,223665.0,4263.2432318192,811.0869999999995
+2078,12,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,200.0,38828.36800000002,33057.592000000004
+2078,12,87032199.0,Other vehicles having capacity <=1000CC,PCS,142.0,123610.89237499982,273307.9450000003
+2078,12,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2078,12,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,442.0,423513.19693749957,971146.936999999
+2078,12,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,7.0,16208.498249999946,39837.71900000004
+2078,12,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,2.0,4064.1959999999963,2329.9199999999983
+2078,12,87032339.0,Vehicles of a cylinder capacity exceeding   500 cc but not exceeding 3000 cc.,PCS,0.0,0.0,0.0
+2078,12,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,0.0,0.0,0.0
+2078,12,87032490.0,Other vehicle (Petrol engine) capacity >3000CC,PCS,233.0,259330.48675,35882.282
+2078,12,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,7.0,8791.993124999979,19439.511000000173
+2078,12,87033200.0,Ambulance & sab-bahan of diesel engine of   apacity between 1500cc to 2500cc.,PCS,0.0,0.0,0.0
+2078,12,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,79.0,99454.85899999994,239421.80600000033
+2078,12,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,21.0,82644.0085,233204.439
+2078,12,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out ABOVE 2000 CC,PCS,0.0,0.0,0.0
+2078,12,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,0.0,0.0,0.0
+2078,12,87038019.0,Electric three wheelers vehicles,PCS,855.0,82217.53775781195,19980.122000000003
+2078,12,87038029.0,"Electric car, jeep & van upto 100KW",PCS,113.0,312706.05024999985,74715.04099999997
+2078,12,87038049.0,"Electric car, jeep & van  > 100KW to <=150KW",PCS,0.0,0.0,0.0
+2078,12,87038059.0,"Electric car, jeep & van > 100KW to <=200KW",PCS,2.0,9116.173499999568,2792.707000000053
+2078,12,87038069.0,"Electric car, jeep & van > 200KW to <=300KW",PCS,1.0,5072.13,2378.894
+2078,12,87038079.0,"Electric car, jeep & van > 300KW",PCS,0.0,0.0,0.0
+2078,12,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,55.0,100335.96937499993,43815.121000000014
+2078,12,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,3.0,2261.6447500000068,2171.9199999999837
+2078,12,87021030.0,Micro-bus (11 to 14 seats)   .,PCS,6.0,7211.996374999999,9020.081999999999
+2078,12,87021049.0,Ambulance & Sab Bahan,PCS,-163.0,-186498.089375,12228.976999999995
+2078,12,87022010.0,Buses (with a capacity  more than 25 seats),PCS,12.0,17686.966000000008,9280.311999999998
+2078,12,87023010.0,Buses,PCS,0.0,0.0,0.0
+2078,12,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,3.0,11272.475999999995,20827.226000000024
+2078,12,87024010.0,With only electric motor for propulsion:,PCS,5.0,70275.04000000001,9929.995
+2078,12,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,24.0,57710.54000000001,8154.565000000002
+2078,12,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,5.0,2785.1195000000007,6157.989999999998
+2078,12,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,1343.0,106695.58427342959,78258.78500000015
+2078,12,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,524.0,50420.10599999968,37435.242999999784
+2078,12,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,263.0,34433.62062499998,24807.53099999996
+2078,12,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,2548.0,310194.3563203099,366137.2849999997
+2078,12,87113010.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle (UNASSEMBLED)",PCS,0.0,0.0,0.0
+2078,12,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,428.0,80433.7220312499,130240.01399999997
+2078,12,87114000.0,Motorcycles with reciprocating piston engi  e of capacity 500-800cc,PCS,0.0,0.0,0.0
+2078,12,87115000.0,Motorcycles with reciprocating piston engi  e of capacity >800cc.,PCS,0.0,0.0,0.0
+2078,12,87116010.0,With electric motor for propulsion,PCS,53.0,2428.4666000977013,590.119999999999
+2078,12,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,89.0,5874.905148437498,1395.0199999999995
+2078,12,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,1.0,114.5942421875,121.083
+2079,1,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,5693.0,14447.24283184798,3511.238000000012
+2079,1,85162100.0,Electric storage heating radiators   .,PCS,3.0,44.42599023440016,10.797000000000025
+2079,1,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,1131.0,2682.469579833036,649.0370000000039
+2079,1,85163100.0,Electro-thermic hair dryers   .,PCS,2897.0,801.3913993224996,194.77700000000004
+2079,1,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,2992.0,1149.3678045653978,307.0610000000006
+2079,1,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,6.0,34.996740722659524,8.507000000000062
+2079,1,85164000.0,Electrical smoothing irons   .,PCS,6879.0,3182.0403749084944,718.5090000000018
+2079,1,85165000.0,Microwave ovens   .,PCS,4278.0,40917.56675927702,9604.360999999997
+2079,1,85166011.0,Induction stove,PCS,13445.0,36317.24167211901,5132.235000000001
+2079,1,85166012.0,Infrared stove,PCS,4221.0,9464.8584375,1337.522
+2079,1,85166020.0,Rice cooker,PCS,12619.0,17814.53569934104,4329.361999999994
+2079,1,85166030.0,"Electric Kettle, jug use for boiling water",PCS,195.0,159.36708325200016,38.861000000004424
+2079,1,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,1378.0,2937.0530879979924,675.6549999999988
+2079,1,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,53.0,9064.947036316007,2220.2690000000002
+2079,1,85167200.0,Electro-thermic toasters  . .,PCS,5105.0,3681.2701372985975,891.8020000000015
+2079,1,85167910.0,Electric insect trap,PCS,29339.0,2945.364178985601,715.8630000000003
+2079,1,85167990.0,Other electro thermic appliances,PCS,42021.0,27057.748715465015,5970.400999999998
+2079,1,85168000.0,Electric heating resistors (excl those of   545).,PCS,8213.0,3634.754440978999,885.469000000001
+2079,1,85169000.0,Parts of electro-thermic appliances,PCS,10183.0,1695.9387426929025,324.4300000000003
+2079,1,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,0.0,0.0,0.0
+2079,1,87032199.0,Other vehicles having capacity <=1000CC,PCS,181.0,137878.688875,304854.7429999998
+2079,1,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2079,1,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,623.0,700644.6247500004,1620074.5989999995
+2079,1,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,7.0,20503.008249999955,50392.70200000005
+2079,1,87032329.0,Of a cylinder capacity exceeding 1500cc but not exceeding 3000cc,PCS,4.0,11359.714500000002,28839.159
+2079,1,87032339.0,Vehicles of a cylinder capacity exceeding   500 cc but not exceeding 3000 cc.,PCS,0.0,0.0,0.0
+2079,1,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,0.0,0.0,0.0
+2079,1,87032490.0,Ambulance & Sab Bahan,PCS,222.0,257468.84918750002,-671.4969999999958
+2079,1,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,34.0,54923.15725000005,121436.23099999991
+2079,1,87033200.0,Ambulance & sab-bahan of diesel engine of   apacity between 1500cc to 2500cc.,PCS,0.0,0.0,0.0
+2079,1,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,99.0,148938.92562499992,353193.9339999999
+2079,1,87033390.0,Vehicles of a cylinder capacity exceeding 2500 cc,PCS,20.0,88971.36074999999,230170.61100000003
+2079,1,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out UPTO 2000 CC,PCS,16.0,131167.4775,242345.845
+2079,1,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,0.0,0.0,0.0
+2079,1,87038019.0,Electric three wheelers vehicles,PCS,329.0,34395.646882813075,8331.106999999989
+2079,1,87038029.0,"Electric car, jeep & van upto 100KW",PCS,67.0,178189.0377499999,42724.629000000015
+2079,1,87038049.0,"Electric car, jeep & van  > 100KW to <=150KW",PCS,0.0,0.0,0.0
+2079,1,87038059.0,"Electric car, jeep & van > 100KW to <=200KW",PCS,10.0,45664.88900000043,13676.70299999998
+2079,1,87038069.0,"Electric car, jeep & van > 200KW to <=300KW",PCS,1.0,6318.0199999999995,2963.217
+2079,1,87038079.0,"Electric car, jeep & van > 300KW",PCS,0.0,0.0,0.0
+2079,1,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,65.0,108685.83400000003,49714.60499999998
+2079,1,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,13.0,16851.767499999987,16182.540999999997
+2079,1,87021030.0,Micro-bus (11 to 14 seats)   .,PCS,16.0,19231.990374999998,24053.288000000004
+2079,1,87021049.0,"Jeep, car & van (compression ignition internal combustion piston engineABOVE 2000 CC",PCS,49.0,41133.7566875,40024.379
+2079,1,87022010.0,Buses (with a capacity  more than 25 seats),PCS,6.0,9253.46699999999,4855.254999999997
+2079,1,87023010.0,Buses,PCS,0.0,0.0,0.0
+2079,1,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,8.0,32552.109999999986,60143.80900000001
+2079,1,87024010.0,With only electric motor for propulsion:,PCS,0.0,0.0,0.0
+2079,1,87024030.0,Microbuses (with a capacity 11-14 seats),PCS,0.0,0.0,0.0
+2079,1,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,0.0,0.0,0.0
+2079,1,87111000.0,Motorcycles and cycles with reciprocating   ngine of capacity =<50cc.,PCS,1.0,172.15,0.065
+2079,1,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,1410.0,126006.47090626042,93074.53700000001
+2079,1,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,856.0,78538.65625,58312.41800000006
+2079,1,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,386.0,50452.70795313013,37210.74400000018
+2079,1,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,4168.0,533110.7079531299,628092.06
+2079,1,87113010.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle (UNASSEMBLED)",PCS,0.0,0.0,0.0
+2079,1,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,0.0,0.0,0.0
+2079,1,87114000.0,Motorcycles with reciprocating piston engi  e of capacity 500-800cc,PCS,0.0,0.0,0.0
+2079,1,87115000.0,Motorcycles with reciprocating piston engi  e of capacity >800cc.,PCS,0.0,0.0,0.0
+2079,1,87116010.0,With electric motor for propulsion,PCS,306.0,13880.952468749994,3317.0730000000003
+2079,1,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,0.0,0.0,0.0
+2079,1,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,0.0,0.0,0.0
+2079,2,85161000.0,Electric instantaneous or storage water he  ters and immersion heaters,PCS,6170.0,13439.014617066015,3268.81700000001
+2079,2,85162100.0,Electric storage heating radiators   .,PCS,2.0,12.069270019499527,4.253999999999905
+2079,2,85162900.0,"Electric space heating and soil heating ap  aratus, nes",PCS,2401.0,2782.760738220997,662.3300000000017
+2079,2,85163100.0,Electro-thermic hair dryers   .,PCS,15992.000000000015,3862.956560501101,1037.5020000000004
+2079,2,85163200.0,"Electro-thermic hair-dressing apparatus, e  c (excl dryers)",PCS,4271.0,1402.9763632202012,357.192
+2079,2,85163300.0,Electro-thermic hand-drying apparatus   .,PCS,334.0,295.04591406250074,71.76499999999987
+2079,2,85164000.0,Electrical smoothing irons   .,PCS,12892.0,8552.933760131797,1977.2510000000002
+2079,2,85165000.0,Microwave ovens   .,PCS,2501.0,24185.847006226017,5841.464000000007
+2079,2,85166011.0,Induction stove,PCS,6546.0,12785.06863073699,1826.911
+2079,2,85166012.0,Infrared stove,PCS,6497.0,12424.264630859405,1755.6849999999995
+2079,2,85166020.0,Rice cooker,PCS,71408.0,91913.44740197796,22337.46100000001
+2079,2,85166030.0,"Electric Kettle, jug use for boiling water",PCS,128.0,119.23960839799838,28.38400000000547
+2079,2,85166090.0,"Other ovens, cooking plates, boiling rings, grillers & roaster",PCS,3823.0,15783.424760345006,3801.684000000001
+2079,2,85167100.0,Electro-thermic coffee or tea makers  . .,PCS,241.0,27931.121305298002,6794.515999999996
+2079,2,85167200.0,Electro-thermic toasters  . .,PCS,10110.0,8244.165610229502,1986.884
+2079,2,85167910.0,Electric insect trap,PCS,74116.0,7991.756336914099,1962.2479999999996
+2079,2,85167990.0,Other electro thermic appliances,PCS,22246.565000056988,10454.037532256974,2701.2390000000014
+2079,2,85168000.0,Electric heating resistors (excl those of   545).,PCS,30156.0,9631.253321472497,2366.291000000001
+2079,2,85169000.0,Parts of electro-thermic appliances,PCS,8573.0,2485.2627958162047,470.3050000000003
+2079,2,87032111.0,Auto rickshaw (three wheeler) <=1000 cc,PCS,0.0,0.0,0.0
+2079,2,87032199.0,Other vehicles having capacity <=1000CC,PCS,289.0,206478.73412499996,456532.2520000003
+2079,2,87032210.0,Other vehicle unassembled condition (Petrol engine) capacity >1000CC to <=1500CC,PCS,0.0,0.0,0.0
+2079,2,87032290.0,Other vehicle (Petrol engine) capacity >1000CC to <=1500CC,PCS,819.0,786277.5276249992,1818463.0899999999
+2079,2,87032319.0,Other vehicles (Petro engine) >1500CC to <=2000CC,PCS,29.0,108501.44075000007,266582.20200000005
+2079,2,87032329.0,Other vehicle (Petrol engine) capacity >2000CC to <=2500CC,PCS,28.0,96674.495,140918.689
+2079,2,87032339.0,Ambulace & Sabbahan,PCS,5.0,37118.3005,89988.202
+2079,2,87032410.0,Vehicles with spark-ignition engine of cyl  nder capacity >3000cc,PCS,0.0,0.0,0.0
+2079,2,87033190.0,Other vehicle  (Diesel engine) capacity upto 1500CC,PCS,42.0,57141.28862499993,126340.66700000013
+2079,2,87033200.0,Ambulance & sab-bahan of diesel engine of   apacity between 1500cc to 2500cc.,PCS,0.0,0.0,0.0
+2079,2,87033219.0,Vehicles with diesel engine of cylinder  ca acity 1500-2500cc,PCS,27.0,40714.783125000075,99750.41399999987
+2079,2,87033390.0,Other vehicle (Diesel engine) capacity >2500CC,PCS,227.0,1032617.9455,2962525.362
+2079,2,87036090.0,Other vehicle (Petrol-Electric hybrid) plug out UPTO 2000 CC,PCS,9.0,71730.9515,132530.50999999998
+2079,2,87038011.0,Electric three wheelers vehicles unassembled condition,PCS,0.0,0.0,0.0
+2079,2,87038019.0,Electric three wheelers vehicles,PCS,92.0,9025.500374999014,2193.3940000000002
+2079,2,87038029.0,"Electric car, jeep & van upto 100KW",PCS,90.0,257775.47375000035,61835.70700000005
+2079,2,87038049.0,"Electric car, jeep & van  > 100KW to <=150KW",PCS,0.0,0.0,0.0
+2079,2,87038059.0,"Electric car, jeep & van > 100KW to <=200KW",PCS,61.0,254239.0384999998,76328.38100000005
+2079,2,87038069.0,"Electric car, jeep & van > 200KW to <=300KW",PCS,2.0,12795.69,6001.245
+2079,2,87038079.0,"Electric car, jeep & van > 300KW",PCS,0.0,0.0,0.0
+2079,2,87021010.0,Bus (with a capacity 26 seats and above) (  iesel or semi diesel engine).,PCS,47.0,85579.00237500004,41698.687000000034
+2079,2,87021020.0,Mini-bus (15 - 25 seats)  . .,PCS,17.0,24160.819000000018,23201.319000000018
+2079,2,87021030.0,Ambulance & Sab-Bahan,PCS,41.0,58196.574375,50215.154
+2079,2,87021049.0,Ambulance & Sab Bahan,PCS,-220.0,-254326.84318750002,4087.1820000000007
+2079,2,87022010.0,Buses (with a capacity  more than 25 seats),PCS,6.0,10308.5,4926.329000000005
+2079,2,87023010.0,Buses,PCS,0.0,0.0,0.0
+2079,2,87023049.0,"Jeep, car & van with both spark ignition internal combusion (Hybrid) ABOVE 2000 CC",PCS,7.0,28032.351000000024,44448.12000000005
+2079,2,87024010.0,With only electric motor for propulsion:,PCS,0.0,0.0,0.0
+2079,2,87024030.0,Micro buses (11 to 14 seater) with only electric motor for propulsion,PCS,82.0,198711.904,28078.321
+2079,2,87029049.0,"Other Jeep, car & van ABOVE 2000 CC",PCS,0.0,0.0,0.0
+2079,2,87111000.0,Motorcycles and cycles with reciprocating   ngine of capacity =<50cc.,PCS,0.0,0.0,0.0
+2079,2,87112011.0,Motorcycles with reciprocating engine of capacity 50-125cc,PCS,2751.0,233986.19621874997,173483.8629999999
+2079,2,87112012.0,With reciprocating internal combustion piston engine of 125- 200 CC,PCS,2828.0,308784.1160000004,229261.72100000037
+2079,2,87112019.0,Motorcycles with reciprocating engine of capacity 200-250cc,PCS,1344.0,179791.311,178243.4069999999
+2079,2,87112092.0,with reciprocating engine of capacity 125-200cc,PCS,3639.0,525422.75356249,619928.236
+2079,2,87113010.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle (UNASSEMBLED)",PCS,284.0,52426.0905,39990.705
+2079,2,87113090.0,"250 - 400cc Reciprocating Engine Motorbike,Motrcycle",PCS,36.0,8018.454250000184,12939.372999999905
+2079,2,87114000.0,Motorcycles with reciprocating piston engi  e of capacity 500-800cc,PCS,0.0,0.0,0.0
+2079,2,87115000.0,Motorcycles with reciprocating piston engi  e of capacity >800cc.,PCS,0.0,0.0,0.0
+2079,2,87116010.0,Cycle with electric motor for propulsion,PCS,1371.0,64401.9723215027,15595.79
+2079,2,87116090.0,With electric motor for propulsion,PCS,1539.0,268165.87460232526,65186.418999999994
+2079,2,87119010.0,"Electrically Operated Motorcycle, moped etc",PCS,0.0,0.0,0.0
+2079,2,87119090.0,"Motorcycles and cycles, nes; side cars   .",PCS,0.0,0.0,0.0

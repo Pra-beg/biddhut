@@ -1,0 +1,349 @@
+Sub-heading,Description of goods,Import Duty SAARC,Import Duty General
+8701,Tractors (other than tractors of 87.09),,
+8701.10,Single axle tractors:,,
+8701.10.10,"Power tiller, mini tiller",1,1
+8701.10.90,Other,5,5
+8701.20,Road tractors for semi-trailers::,,
+8701.20.10,Upto 18 KW,5,5
+8701.20.90, Exceeding 18 KW,5,5
+8701.21,With only compression-ignition internal combustion piston engine (diesel or semi-diesel):,,
+8701.21.10,Upto 18 KW,5,5
+8701.21.90, Exceeding 18 KW,5,5
+8701.22,With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:,,
+8701.22.10,Upto 18 KW,5,5
+8701.22.90,Exceeding 18 KW,5,5
+8701.23,With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion:,,
+8701.23.10,Upto 18 KW,5,5
+8701.23.90, Exceeding 18 KW,5,5
+8701.24,With only electric motor for propulsion;,5,5
+8701.24.10,Upto 18 KW,5,5
+8701.24.90, Exceeding 18 KW,5,5
+8701.29, Other:,,
+8701.29.10,Upto 18 KW,5,5
+8701.29.90, Exceeding 18 KW,5,5
+8701.30,Track-laying tractors,5,5
+8701.90,"Other, of an engine power :",,
+8701.91,Not exceeding 18 KW,5,5
+8701.92,Exceeding 18 KW but not exceeding 37 kW,5,5
+8701.93,Exceeding 37 KW but not exceeding 75 kW,5,5
+8701.94,Exceeding 75 KW but not exceeding 130 kW,5,5
+8701.95,Exceeding 130 KW,5,5
+8702,"Motor vehicles for the transport of ten or more persons, including the driver.",,
+8702.10,With only compression-ignition internal combustion piston engine (diesel or semi-diesel):,,
+8702.10.10,Buses (with a capacity more than 25 seats),30,30
+8702.10.20,Minibuses (with a capacity 15-25 seats),30,30
+8702.10.30,Microbuses (with a capacity 11-14 seats),30,30
+8702.10.40,"Jeep, Car and Van :",,
+8702.10.41,Unassembled,80,80
+8702.10.49,Other,80,80
+8702.20,With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:,,
+8702.20.10,Buses (with a capacity more than 25 seats),30,30
+8702.20.20,Minibuses (with a capacity 15-25 seats),30,30
+8702.20.30,Microbuses (with a capacity 11-14 seats),30,30
+8702.20.40,"Jeep, Car and Van :",,
+8702.20.41,Unassembled,80,80
+8702.20.49,Other,80,80
+8702.30,With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion:,,
+8702.30.10,Buses (with a capacity more than 25 seats),30,30
+8702.30.20,Minibuses (with a capacity 15-25 seats),30,30
+8702.30.30,Microbuses (with a capacity 11-14 seats),30,30
+8702.30.40,"Jeep, Car and Van :",,
+8702.30.41,Unassembled,80,80
+8702.30.49,Other,80,80
+8702.40,With only electric motor for propulsion:,,
+8702.40.10,Buses (with a capacity more than 25 seats),1,1
+8702.40.20,Minibuses (with a capacity 15-25 seats),1,1
+8702.40.30,Microbuses (with a capacity 11-14 seats),1,1
+8702.40.40,"Jeep, Car and Van :",,
+8702.40.41,Unassembled,10,10
+8702.40.49,Other,10,10
+8702.90,Other:,,
+8702.90.10,Buses (with a capacity more than 25 seats):,30,30
+8702.90.20,Minibuses (with a capacity 15-25 seats),30,30
+8702.90.30,Microbuses (with a capacity 11-14 seats),30,30
+8702.90.40,"Jeep, Car and Van :",,
+8702.90.41,Unassembled,80,80
+8702.90.49,Other,80,80
+8703,"Motor cars and other motor vehicles principally designed for the transports of persons (other than those of Heading 87.02), including station wagons and racing cars.",,
+8703.10,Vehicles specially designed for travelling on snow; golf cars and similar vehicles:,,
+8703.10.10,Vehicles specially designed for snow,30,30
+8703.10.90,Other,80,80
+8703.20,"Other vehicles, with only spark-ignition internal combustion piston engine :",,
+8703.21,Of a cylinder capacity not exceeding 1000 cc:,,
+8703.21.10,Three wheeler vehicles (auto- Rickshaws):,,
+8703.21.11,Unassembled,30,30
+8703.21.19,Other,30,30
+8703.21.90,Other:,,
+8703.21.91,Unassembled,80,80
+8703.21.99,Other,80,80
+8703.22,Of a cylinder capacity exceeding 1000 cc but not exceeding 1500 cc:,,
+8703.22.10,Unassembled,80,80
+8703.22.90,Other,80,80
+8703.23,Of a cylinder capacity exceeding 1500 cc but not exceeding 3000 cc:,,
+8703.23.10,Of a cylinder capacity exceeding 1500 cc but not exceeding 2000 cc:,,
+8703.23.11,Unassembled,80,80
+8703.23.19,Other,80,80
+8703.23.20,Of a cylinder capacity exceeding 2000 cc but not exceeding 2500 cc:,,
+8703.23.21,Unassembled,80,80
+8703.23.29,Other,80,80
+8703.23.30,Of a cylinder capacity exceeding 2500 cc but not exceeding 3000 cc:,,
+8703.23.31,Unassembled,80,80
+8703.23.39,Other,80,80
+8703.24,Of a cylinder capacity exceeding 3000 cc:,,
+8703.24.10,Unassembled,80,80
+8703.24.90,Other,80,80
+8703.30,"Other vehicles, with only compression- ignition internal combustion piston engine (diesel or semi-diesel) :",,
+8703.31,Of a cylinder capacity not exceeding 1500 cc:,,
+8703.31.10,Unassembled,80,80
+8703.31.90,Other,80,80
+8703.32,Of a cylinder capacity exceeding 1500 cc but not exceeding 2500 cc:,,
+8703.32.10,Of a cylinder capacity exceeding 1500 cc but not exceeding 2000 cc:,,
+8703.32.11,Unassembled,80,80
+8703.32.19,Other,80,80
+8703.32.20,Of a cylinder capacity exceeding 2000 cc but not exceeding 2500 cc:,,
+8703.32.21,Unassembled,80,80
+8703.32.29,Other,80,80
+8703.33,Of a cylinder capacity exceeding 2500 cc:,,
+8703.33.10,Unassembled,80,80
+8703.33.90,Other,80,80
+8703.40,"Other vehicles, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion, other than those capable of being charged by plugging to external source of electric power:",,
+8703.40.10,Unassembled,80,80
+8703.40.90,Other,80,80
+8703.50,"Other vehicles, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion, other than those capable of being charged by plugging to external source of electric power:",,
+8703.50.10,Unassembled,80,80
+8703.50.90,Other,80,80
+8703.60,"Other vehicles, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power:",,
+8703.60.10,Unassembled,80,80
+8703.60.90,Other,80,80
+8703.70,"Other vehicles, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion, capable of being charged by plugging to external source of electric power:",,
+8703.70.10,Unassembled,80,80
+8703.70.90,Other,80,80
+8703.80,"Other vehicles, with only electric motor for propulsion:",,
+8703.80.10,Three Wheelers:,,
+8703.80.11,Unassembled,10,10
+8703.80.19,Other,10,10
+8703.80.20,"Car, Jeep, Van with motor‟s peak power up to 100 kw:",,
+8703.80.21,Unassembled,10,10
+8703.80.29,Other,10,10
+8703.80.50," Car, Jeep, Van with motor‟s peak power exceeding 100 kw but not exceeding 200kw::",,
+8703.80.51,Unassembled,15,15
+8703.80.59,Other,30,30
+8703.80.60," Car, Jeep, Van with motor‟s peak power exceeding 200 kw but not exceeding 300kw:",,
+8703.80.61,Unassembled,30,30
+8703.80.69,Other,45,45
+8703.80.70," Car, Jeep, Van with motor‟s peak power exceeding 300 kw",,
+8703.80.71,Unassembled,40,40
+8703.80.79,Other,60,60
+8703.80.90,Other,,
+8703.80.91,Unassembled,40,40
+8703.80.99,Other,60,60
+8703.90,Other:,,
+8703.90.10,Unassembled,80,80
+8703.90.90,Other,80,80
+8704,Motor vehicles for the transport of goods.,,
+8704.10,Dumpers designed for off-highway use,30,30
+8704.20,"Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel):",,
+8704.21,g.v.w. not exceeding 5 tonnes:,,
+8704.21.10,Double-cab pick-up vehicle principally designed for the transportation of goods having more than 2 seats including driver for the transportation of persons,40,40
+8704.21.20,Single cab pick-up vehicle principally designed for the transportation of goods having 2 seats including driver,30,30
+8704.21.30,Delivery Van,30,30
+8704.21.40,Three-wheeler vehicle,30,30
+8704.21.50,Vans Equipped with refrigerating system,1,1
+8704.21.60,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.21.90,Other,30,30
+8704.22,g.v.w. Exceeding 5 tonnes but not exceeding 20 tonnes:,,
+8704.22.10,Double-cab pick-up vehicle principally designed for the transport of goods and having more than 2 seats including driver for the transportation of persons,40,40
+8704.22.20,Tankers specially designed for transporting milk,1,1
+8704.22.30, Container fitted trucks,10,10
+8704.22.40, Bullet tanker trucks specially designed for transporting liquid petroleum gas,10,10
+8704.22.50,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.22.60,Cement bulker,30,30
+8704.22.70,Vans Equipped with refrigerating system,1,1
+8704.22.90,Other:                                                                                                                                                                                                                                                                                               ,                  ,
+8704.22.91,"Tanker fitted with chassis, specially designed for transporting milk"                                                                                                                                                                                                                               ,1                 ,1
+8704.22.92,closed truck fitted with chassis                                                                                                                                                                                                                                                                     ,10                ,10
+8704.22.93,"Bullet tank fitted with chassis, specially designed for transporting liquid petroleum gas"                                                                                                                                                                                                          ,10                ,10
+8704.22.99,Other    
+8704.23,g.v.w. Exceeding 20 tonnes,,
+8704.23.10, Vans Equipped with refrigerating system,1,1
+8704.23.20,Tankers specially designed for transporting milk,1,1
+8704.23.30,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.23.40,Container fitted trucks,10,10
+8704.23.50,Cement bulker,30,30
+8704.23.60,Bullet tanker trucks specially designed for transporting liquid petroleum gas,10,10
+8704.23.90,Other,30,30
+8704.30,"Other, with only spark-ignition internal combustion piston engine:",,
+8704.31,g.v.w. not exceeding 5 tonnes:,,
+8704.31.10,Double-cab pick-up vehicle principally designed for the transport of goods and having more than 2 seats including driver for the transportation of persons,40,40
+8704.31.20,Single cab pick-up vehicle principally designed for the transport of goods and having 2 seats including driver,30,30
+8704.31.30,Delivery Van,30,30
+8704.31.40,Three-wheeler vehicle,30,30
+8704.31.50,Vans Equippedw with refrigerating system,1,1
+8704.31.60,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.31.90,Other,30,30
+8704.32,g.v.w. exceeding 5 tonnes:,,
+8704.32.10,Double-cab pick-up vehicle principally designed for the transportation of goods having more than 2 seats including driver for the transportation of persons,40,40
+8704.32.20, Tankers specially designed for transporting milk,1,1
+8704.32.30, Container fitted trucks,10,10
+8704.32.40, Bullet tanker trucks specially designed for transporting liquid petroleum gas,10,10
+8704.32.50,Garbage collection and transportation vehicles with compactors (compressing device,15,15
+8704.32.60, Cement bulker,30,30
+8704.32.70,Vans Equipped with refrigerating system,1,1
+8704.32.90,Other,30,30
+8704.40,"Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:",,
+8704.41,g.v.w. not exceeding 5 tonnes :,,
+8704.41.10,Double-cab pick-up vehicle principally designed for the transportation of goods having more than 2 seats including driver for the transportation of persons,40,40
+8704.41.20,Single cab pick-up vehicle principally designed for the transportation of goods having 2 seats including driver,30,30
+8704.41.30,Delivery Van,30,30
+8704.41.40, Three-wheeler,30,30
+8704.41.50,Vans Equipped with refrigerating system,1,1
+8704.41.60,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.41.90,Other,30,30
+8704.42,g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes:,,
+8704.42.10,Double-cab pick-up vehicle principally designed for the transportation of goods having more than 2 seats including driver for the transportation of persons,40,40
+8704.42.20,Tankers specially designed for transporting milk,1,1
+8704.42.30, Container fitted trucks,10,10
+8704.42.40,Bullet tanker trucks specially designed for transporting liquid petroleum gas,10,10
+8704.42.50,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.42.60, Cement bulker,30,30
+8704.42.70,Vans Equipped with refrigerating system,1,1
+8704.42.90,Other,30,30
+8704.43,g.v.w. exceeding 20 tonnes:,,
+8704.43.10,Vans Equipped with refrigerating system,1,1
+8704.43.20,Tankers specially designed for transporting milk,1,1
+8704.43.30,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.43.40, Container fitted trucks,10,10
+8704.43.50, Cement bulker,30,30
+8704.43.60, Bullet tanker trucks specially designed for transporting liquid petroleum gas,10,10
+8704.43.90,Other,30,30
+8704.50," Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion :",,
+8704.51,g.v.w. not exceeding 5 tonnes :,,
+8704.51.10,Double-cab pick-up vehicle principally designed for the transportation of goods having more than 2 seats including driver for the transportation of persons,40,40
+8704.51.20,Single cab pick-up vehicle principally designed for the transportation of goods having 2 seats including driver,30,30
+8704.51.30,Delivery Van,30,30
+8704.51.40,Three-wheeler vehicle,30,30
+8704.51.50,Vans Equipped with refrigerating system,1,1
+8704.51.60,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.51.90,Other,30,30
+8704.52,g.v.w. exceeding 5 tonnes :,,
+8704.52.10,Double-cab pick-up vehicle principally designed for the transportation of goods having more than 2 seats including driver for the transportation of persons,40,40
+8704.52.20,Tankers specially designed for transporting milk,1,1
+8704.52.30,Container fitted trucks,10,10
+8704.52.40,Bullet tanker trucks specially designed for transporting liquid petroleum gas,10,10
+8704.52.50,Garbage collection and transportation vehicles with compactors (compressing device),15,15
+8704.52.60,Cement bulker,30,30
+8704.52.70,Vans Equipped with refrigerating system,1,1
+8704.52.90,Other,30,30
+8704.60, Other with only electric motor for propulsion,,
+8704.60.10,Vans Equipped with refrigerating system,1,1
+8704.60.20,"Other, Three-wheeler",10,10
+8704.60.90," Other, Four-wheeler",10,10
+8704.90,Other:,,
+8704.90.10,Equipped with refrigerating system,1,1
+8704.90.20,"Three-wheeler vehicles, with only electric motor for propulsion",30,30
+8704.90.30, Four-wheeler vehicles with only electric motor for propulsion,30,30
+8704.90.90,Other,30,30
+8705,"Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries, spraying lorries, mobile work shops, mobile radiological units).",,
+8705.10,Crane lories,6,10
+8705.20,Mobile drilling derricks,6,10
+8705.30,Fire fighting vehicles,1,1
+8705.40,Concrete-mixer lorries,6,10
+8705.90,Other:,,
+8705.90.10, Road cleaning Broomer,5,5
+8705.90.90,Other,6,10
+8706,"Chassis fitted with engines, for the motor vehicles of Headings 87.01 to 87.05.",,
+8706.00.10,Of tractors of Heading 8701,5,5
+8706.00.20,Of Minibuses (with a capacity 15-25 seats),30,30
+8706.00.30,Of Microbuses (with a capacity 11-14 seats),30,30
+8706.00.40,"Of Jeep, Car and Vans",80,80
+8706.00.50,Of three wheeler vehicles (auto- Rickshaws),30,30
+8706.00.60,Of Pick-up Vehicles:,,
+8706.00.61,Double cab,30,30
+8706.00.62,Single cab,30,30
+8706.00.63,Delivery Van,30,30
+8706.00.70,Of Dumpers designed for off- highway use,30,30
+8706.00.80,"Of Bus, Trucks",30,30
+8706.00.90,Other,30,30
+8707,"Bodies (including cabs), for the motor vehicles of Headings 87.01 to 87.05.",,
+8707.10,For the vehicles of Heading 87.03,7.25,15
+8707.90,Other,7.25,15
+8708,Parts and accessories of the motor vehicles of Headings 87.01 to 87.05.,,
+8708.10,Bumpers and parts thereof,20,20
+8708.20,Other parts and accessories of bodies (including cabs):,,
+8708.21,Safety seat belts,20,20
+8708.22,"Front windscreens (windshields), rear windows and other windows specified in Subheading Note 1 to this Chapter",20,20
+8708.29,Other,20,20
+8708.30,Brakes and servo-brakes; parts thereof,20,20
+8708.40,Gear boxes and parts thereof,20,20
+8708.50,"Drive-axles with differential, whether or not provided with other transmission components, and non-driving axles; parts thereof",20,20
+8708.70,Road wheels and parts and accessories thereof,20,20
+8708.80,Suspension systems and parts thereof (including shock-absorbers),20,20
+8708.90,Other parts and accessories:,,
+8708.91,Radiators and parts thereof,20,20
+8708.92,Silencers (mufflers) and exhaust pipes; parts thereof,20,20
+8708.93,Clutches and parts thereof,20,20
+8708.94,"Steering wheels, steering columns and steering boxes; parts thereof",20,20
+8708.95,Safety airbags with inflater system; parts thereof,20,20
+8708.99,Other,20,20
+8709,"Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles.",,
+8709.10,Vehicles:,,
+8709.11,Electrical,9.5,20
+8709.19,Other,9.5,20
+8709.90,Parts,7.25,15
+8710,"Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles.",9.5,20
+8711,Motorcycles (including mopeds) and cycles fitted with an auxiliary motor with or without side-cars; side-cars.,,
+8711.10,With internal combustion piston engine of a cylinder capacity not exceeding 50 cc,30,30
+8711.20,With internal combustion piston engine of a cylinder capacity exceeding 50 cc but not exceeding 250 cc:,,
+8711.20.10,Of unassembled condition:,,
+8711.20.11,Of a cylinder capacity exceeding 50 cc but not exceeding 125 cc,30,30
+8711.20.12,Of a cylinder capacity exceeding 125 cc but not exceeding 200 cc,30,30
+8711.20.19,Of a cylinder capacity exceeding 200 cc but not exceeding 250 cc,30,30
+8711.20.90,Other:,,
+8711.20.91,Of a cylinder capacity exceeding 50 cc but not exceeding 125 cc,30,30
+8711.20.92,Of a cylinder capacity exceeding 125 cc but not exceeding 200 cc,30,30
+8711.20.99,Of a cylinder capacity exceeding 200 cc but not exceeding 250 cc,40,40
+8711.30,With internal combustion piston engine of a cylinder capacity exceeding 250 cc but not exceeding 500 cc:,,
+8711.30.10,Of unassembled condition,30,30
+8711.30.90,Other,70,70
+8711.40,With internal combustion piston engine of a cylinder capacity exceeding 500 cc but not exceeding 800 cc,80,80
+8711.50,With internal combustion piston engine of a cylinder capacity exceeding 800 cc,80,80
+8711.60,With electric motor for propulsion,,
+8711.60.10,Cycle,10,10
+8711.60.90,Other,10,10
+8711.90,Other:,30,30
+8712,"Bicycles and other cycles (including delivery tricycles), not motorised.",,
+8712.00.10,Of a kind used by people with physical impairment,Free,Free
+8712.00.90,Other,5,5
+8713,"Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled.",,
+8713.10,Not mechanically propelled,Free,Free
+8713.90,Other:,,
+8713.90.10,Electric wheel chair,Free,Free
+8713.90.90,Other,5,5
+8714,parts and accessories of vehicles of Headings 87.11 to 87.13.,,
+8714.10,Of motorcycles (including mopeds),20,20
+8714.20,Of carriages for disabled persons,5,5
+8714.90,Other:,,
+8714.91,"Frames and forks, and parts thereof",5,5
+8714.92,Wheel rims and spokes,5,5
+8714.93,"Hubs, other than coaster braking hubs and hub brakes, and free-wheel sprocket-wheels",5,5
+8714.94,"Brakes, including coaster braking hubs and hub brakes, and parts thereof",5,5
+8714.95,Saddles,5,5
+8714.96,"Pedals and crank-gear, and parts thereof",5,5
+8714.99,Other:,,
+8714.99.10,Of Bicycle and Rickshaws,5,5
+8714.99.90,Other,7.25,15
+8715,Baby carriages and parts thereof.,,
+8715.00.10,Stroller,5,5
+8715.00.20,Other baby carriages,5,5
+8715.00.90,Parts,5,5
+8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof.",,
+8716.10,"Trailers and semi-trailers of the caravan type, for housing or camping",7.25,15
+8716.20,Self-loading or self-unloading trailers and semi-trailers for agricultural purposes,7.25,15
+8716.30,Other trailers and semi-trailers for the transport of goods:,,
+8716.31,Tanker trailers and tanker semi- trailers,7.25,15
+8716.39,Other,7.25,15
+8716.40,Other trailers and semi-trailers,7.25,15
+8716.80, Other vehicles,7.25,15
+8716.90,Parts:,,
+8716.90.10,Wheels of woods for carts,5,5
+8716.90.90,Other,7.25,15
